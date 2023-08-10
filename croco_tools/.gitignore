@@ -1,0 +1,24 @@
+# Logs and databases #
+######################
+*.log
+*.output
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store*
+
+# Misc               #
+######################
+doc/build
+
+#Compiled python
+#####################
+*.pyc
+
+#
+#####################
+**/.ipynb_checkpoints
+
+
